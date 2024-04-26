@@ -8,8 +8,5 @@ public class Calc1 {
 
 		System.out.println(Integer.parseInt(args[0]) +
         Integer.parseInt(args[1]));
-
-
-
 	}
 }
