@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NetprolabMember",
+            "request": "launch",
+            "mainClass": "NetprolabMember",
+            "projectName": "java-basic-1_32022a03"
+        },
+        {
+            "type": "java",
             "name": "StringBufferTest",
             "request": "launch",
             "mainClass": "StringBufferTest",
