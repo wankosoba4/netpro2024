@@ -80,8 +80,6 @@ class Renshu {
         return maxIndex;
     }
 
-
-
     void swapArrayElements(int[] p, int i, int j){
         int temp = p[i];
         p[i] = p[j];
